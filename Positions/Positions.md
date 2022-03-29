@@ -1,2 +1,2 @@
 # Positions
-## What is a Positions?
+## What are Positions?

@@ -1,2 +1,2 @@
 # Transitions
-## What is a Transitions?
+## What are Transitions?

@@ -31,5 +31,5 @@ images:
 ```
 
 ## Positions
-Start: [[▿▾⬒▿▾]]
-End: [[▿▾⬒▿▾]]
+Start: [▿▾⬒▿▾](Positions/Closed/▿▾⬒▿▾.md)
+End: [▿▾⬒▿▾](Positions/Closed/▿▾⬒▿▾.md)

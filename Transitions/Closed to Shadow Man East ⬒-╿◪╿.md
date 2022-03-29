@@ -12,7 +12,7 @@ images:
 ## Transition
 |                         | From | To   |
 | ----------------------- | ---- | ---- |
-| Link                    | [[Closed ⬒]] | [[Shadow Man ╿◪╿]] |
+| Link                    | [Closed ⬒](Postures/Closed%20⬒.md) | [Shadow Man ╿◪╿](Postures/Shadow%20Man%20╿◪╿.md) |
 | Direction               |   ↑   |   →  |
 | Notation with Direction |   ⬒   |   ╿◪╿   |
 
@@ -40,5 +40,5 @@ images:
 ```
 
 ## Positions
-Start: [[▿▾⬒▿▾]]
-End: [[▿▾╿◪╿▿▾]]
+Start: [▿▾⬒▿▾](Positions/Closed/▿▾⬒▿▾.md)
+End: [▿▾╿◪╿▿▾](Positions/Shadow%20Man/▿▾╿◪╿▿▾.md)

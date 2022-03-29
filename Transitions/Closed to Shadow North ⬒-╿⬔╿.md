@@ -12,7 +12,7 @@ images:
 ## Transition
 |                         | From             | To   |
 | ----------------------- | ---------------- | ---- |
-| Link                    | [[Closed ⬒]]             | [[Shadow ╿⬔╿]] |
+| Link                    | [Closed ⬒](Postures/Closed%20⬒.md)             | [Shadow ╿⬔╿](Postures/Shadow%20╿⬔╿.md) |
 | Direction               |         ↑         |   ↑   |
 | Notation with Direction | ⬒          | ╿⬔╿|      |
 
@@ -24,7 +24,7 @@ images:
 
 ## Notation
 ### Long
-1 - 2. [[Saida Man]]-2
+1 - 2. [Saida Man](Figures/Fundamentals/Saida%20Man.md)-2
 
 | C   |     | 3   |
 | --- | --- | --- |
@@ -41,5 +41,5 @@ images:
 ```
 
 ## Positions
-Start: [[▿▾⬒▿▾]]
-End: [[▿▾╿⬔╿▿▾]]
+Start: [▿▾⬒▿▾](Positions/Closed/▿▾⬒▿▾.md)
+End: [▿▾╿⬔╿▿▾](Positions/Shadow/▿▾╿⬔╿▿▾.md)

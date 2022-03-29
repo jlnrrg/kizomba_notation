@@ -12,7 +12,7 @@ images:
 ## Transition
 |                         | From | To   |
 | ----------------------- | ---- | ---- |
-| Link                    | [[Closed ⬒]] | [[Cross Body ⬒ ╾]] |
+| Link                    | [Closed ⬒](Postures/Closed%20⬒.md) | [Cross Body ⬒ ╾](Postures/Cross%20Body%20⬒%20╾.md) |
 | Direction               |   ↑   |   ↑   |
 | Notation with Direction |  ⬒    |    ⬒╾  |
 
@@ -38,5 +38,5 @@ images:
 ```
 
 ## Positions
-Start: [[▿▾⬒▿▾]]
-End: [[▿▾╿⬒╾▿▾]]
+Start: [▿▾⬒▿▾](Positions/Closed/▿▾⬒▿▾.md)
+End: [▿▾⬒╾▿▾](Positions/Cross%20Body/▿▾⬒╾▿▾.md)

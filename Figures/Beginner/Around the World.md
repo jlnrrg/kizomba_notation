@@ -1,7 +1,7 @@
 # Around the World
 ## Notation
 ### Long
-1 - 3. [[Saida Woman]]-3
+1 - 3. [Saida Woman](Figures/Fundamentals/Saida%20Woman.md)-3
 
 | C   |     | 4   | 5   | 6   | 7   | 8   | 9   |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -24,5 +24,5 @@
 ```
 
 ## Positions
-Start: [[▿▾⬒▿▾]] 
-End: [[▿▾⬒▿▾]] 
+Start: [▿▾⬒▿▾](Positions/Closed/▿▾⬒▿▾.md) 
+End: [▿▾⬒▿▾](Positions/Closed/▿▾⬒▿▾.md) 

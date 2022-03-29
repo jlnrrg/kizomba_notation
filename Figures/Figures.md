@@ -1,2 +1,2 @@
 # Figures
-## What is a Figures?
+## What are Figures?

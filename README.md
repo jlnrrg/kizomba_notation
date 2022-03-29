@@ -5,9 +5,9 @@ aliases:
 
 # Kizomba Notation
 The Kizomba Notation is based on 4 main information sources:
-- [[README#Count|Count]]
-- Leader/ Follower [[README#Movement|Movement]]
-- [[README#Orientation|Orientation]]
+- [Count](README#Count)
+- Leader/ Follower [Movement](README#Movement)
+- [Orientation](README#Orientation)
 
 ## Structure
 All displayed information assumes the orientation to the north. 
@@ -21,7 +21,7 @@ In the long or table notation these information are displayed in this order:
 3. Orientation (O)
 4. Leader movement (L)
 
-Using the [[Saida Woman]] as an example this would result such an output:
+Using the [Saida Woman](Figures/Fundamentals/Saida%20Woman.md) as an example this would result such an output:
 
 | C   |     | 1   | 2   | 3   | &   | 4   | 5   | 6   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -37,7 +37,7 @@ The short notation is defined in this order:
 3. Orientation
 4. Follower movement
 
-Thus the above mentioned [[Saida Woman]] would be written like this:
+Thus the above mentioned [Saida Woman](Figures/Fundamentals/Saida%20Woman.md) would be written like this:
 ```
 ▿▾⬒▿▾
 1↘◩↘
@@ -173,15 +173,15 @@ Full counts are represented using the corresponding number, while half counts ar
 
 ## Orientation
 ### Writing Order
-1. Leader's [[README#Weight Distribution|weight distribution]] (optional, only used in [[Positions]])
-2. Leader's [[README#Frame Foot|Frame + Foot]]
-3. [[README#Followers Positioning|Followers Positioning]]
-4. Follower's [[README#Frame Foot|Frame + Foot]]
-5. Follower's [[README#Weight Distribution|weight distribution]] (optional, only used in [[Positions]])
+1. Leader's [Weight Distribution](README#Weight%20Distribution) (optional, only used in [Positions](Positions/Positions.md))
+2. Leader's [Frame + Foot](README#Frame%20Foot)
+3. [Follower's Positioning](README.md#Follower's%20Positioning)
+4. Follower's [Frame + Foot](README#Frame%20Foot)
+5. Follower's [Weight Distribution](README#Weight%20Distribution) (optional, only used in [Positions](Positions/Positions.md))
 
 ### Weight Distribution
 - shown from the leader's perspective
-- the weight distribution is only used in the beginning of a notation or while notating [[Positions]]
+- the weight distribution is only used in the beginning of a notation or while notating [Positions](Positions/Positions.md)
 
 | Sign Combi | Description                  |
 | ---------- | ---------------------------- |
@@ -189,7 +189,7 @@ Full counts are represented using the corresponding number, while half counts ar
 | ▿▾         | Weight is on the right foot  |
 | ▾▾         | Weight is equaly distributed |
 
-### Followers Positioning
+### Follower's Positioning
 - describes the position of the follower in relation to the leader
 - default orientation is toward the center like this means: ⬒=╿⬒╽, ◧=╾◧╼, ◨=╼◨╾, etc. 
 

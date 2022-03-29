@@ -12,7 +12,7 @@ images:
 ## Transition
 |      | From         | To                |
 | ---- | ------------ | ----------------- |
-| Link | [[Closed ⬒]] | [[Promenade ╿◨╿]] |
+| Link | [Closed ⬒](Postures/Closed%20⬒.md) | [Promenade ╿◨╿](Postures/Promenade%20╿◨╿.md) |
 |    Direction  |       ↑       |   ←                |
 |    Notation with Direction  | ⬒          | ╾⬒╾             |
 
@@ -36,5 +36,5 @@ images:
 ```
 
 ## Positions
-Start: [[▿▾⬒▿▾]]
-End: [[▿▾╿◨╿▾▿]]
+Start: [▿▾⬒▿▾](Positions/Closed/▿▾⬒▿▾.md)
+End: [▿▾╿◨╿▾▿](Positions/Promenade/▿▾╿◨╿▾▿.md)

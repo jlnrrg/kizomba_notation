@@ -1,2 +1,2 @@
 # Postures
-## What is a Postures?
+## What are Postures?
