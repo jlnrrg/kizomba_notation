@@ -1,4 +1,5 @@
 ---
+title: "Closed to Shadow North ⬒-╿⬔╿"
 aliases: [] 
 tags: [dance, kizomba, transition, sClosed, eShadow]
 counts: 3

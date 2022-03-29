@@ -1,4 +1,5 @@
 ---
+title: "Closed ⬒"
 aliases: [] 
 tags: [dance, kizomba, posture] 
 images:

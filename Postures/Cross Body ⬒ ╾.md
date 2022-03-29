@@ -1,4 +1,5 @@
 ---
+title: "Cross Body ⬒ ╾"
 aliases: [L-Shaped] 
 tags: [dance, kizomba, posture] 
 images:

@@ -1,4 +1,5 @@
 ---
+title: "Basic 1"
 aliases: [Basic Slow] 
 tags: [dance, kizomba, figure]
 counts: 4

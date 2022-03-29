@@ -1,4 +1,5 @@
 ---
+title: "Closed to Promenade West ⬒-╾⬒╾"
 aliases: [] 
 tags: [dance, kizomba, transition, sClosed, ePromenade]
 counts: 1

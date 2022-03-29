@@ -1,4 +1,5 @@
 ---
+title: "Cross Body Left ⬒╼"
 aliases: [L-Shaped Left] 
 tags: [dance, kizomba, posture] 
 images:

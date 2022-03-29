@@ -1,4 +1,5 @@
 ---
+title: "{{title}}"
 aliases: [] 
 tags: [dance, kizomba, figure]
 counts: 4

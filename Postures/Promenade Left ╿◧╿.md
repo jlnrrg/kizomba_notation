@@ -1,4 +1,5 @@
 ---
+title: "Promenade Left ╿◧╿"
 aliases: [Semi-Open Left] 
 tags: [dance, kizomba, posture] 
 images:

@@ -1,4 +1,5 @@
 ---
+title: "Outside ╿⬔╽"
 aliases: [] 
 tags: [dance, kizomba, posture] 
 images:

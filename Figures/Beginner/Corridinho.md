@@ -1,4 +1,5 @@
 ---
+title: "Corridinho"
 aliases: [Walk like a cat] 
 tags: [dance, kizomba, figure]
 counts: 9

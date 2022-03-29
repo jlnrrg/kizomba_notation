@@ -1,4 +1,5 @@
 ---
+title: "Promenade ╿◨╿"
 aliases: [Semi-Open] 
 tags: [dance, kizomba, posture] 
 images:

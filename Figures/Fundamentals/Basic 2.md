@@ -1,4 +1,5 @@
 ---
+title: "Basic 2"
 aliases: [] 
 tags: [dance, kizomba, figure]
 counts: 4

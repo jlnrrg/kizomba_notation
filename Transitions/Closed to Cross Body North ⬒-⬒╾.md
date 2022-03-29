@@ -1,4 +1,5 @@
 ---
+title: "Closed to Cross Body North ⬒-⬒╾"
 aliases: [] 
 tags: [dance, kizomba, transition, sClosed, eCrossBody]
 counts: 4

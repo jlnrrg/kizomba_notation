@@ -1,4 +1,5 @@
 ---
+title: "Saida Man"
 aliases: [Man Saida] 
 tags: [dance, kizomba, figure]
 counts: 4

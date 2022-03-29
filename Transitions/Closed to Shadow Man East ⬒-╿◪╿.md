@@ -1,4 +1,5 @@
 ---
+title: "Closed to Shadow Man East ⬒-╿◪╿"
 aliases: [] 
 tags: [dance, kizomba, transition, sClosed, eShadowMan]
 counts: 5
