@@ -5,9 +5,9 @@ aliases:
 
 # Kizomba Notation
 The Kizomba Notation is based on 4 main information sources:
-- [[Kizomba Notation/README#Count|Count]]
-- Leader/ Follower [[Kizomba Notation/README#Movement|Movement]]
-- [[Kizomba Notation/README#Orientation|Orientation]]
+- [[README#Count|Count]]
+- Leader/ Follower [[README#Movement|Movement]]
+- [[README#Orientation|Orientation]]
 
 ## Structure
 All displayed information assumes the orientation to the north. 
@@ -173,11 +173,11 @@ Full counts are represented using the corresponding number, while half counts ar
 
 ## Orientation
 ### Writing Order
-1. Leader's [[Kizomba Notation/README#Weight Distribution|weight distribution]] (optional, only used in [[Positions]])
-2. Leader's [[Kizomba Notation/README#Frame Foot|Frame + Foot]]
-3. [[Kizomba Notation/README#Followers Positioning|Followers Positioning]]
-4. Follower's [[Kizomba Notation/README#Frame Foot|Frame + Foot]]
-5. Follower's [[Kizomba Notation/README#Weight Distribution|weight distribution]] (optional, only used in [[Positions]])
+1. Leader's [[README#Weight Distribution|weight distribution]] (optional, only used in [[Positions]])
+2. Leader's [[README#Frame Foot|Frame + Foot]]
+3. [[README#Followers Positioning|Followers Positioning]]
+4. Follower's [[README#Frame Foot|Frame + Foot]]
+5. Follower's [[README#Weight Distribution|weight distribution]] (optional, only used in [[Positions]])
 
 ### Weight Distribution
 - shown from the leader's perspective
