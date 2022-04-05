@@ -12,7 +12,7 @@ images:
 # {{title}}
 ## Transition
 |                         | From | To   |
-| ----------------------- | ---- | ---- |
+| :----------------------- | :---- | :---- |
 | Link                    | [[]] | [[]] |
 | Direction               |      |      |
 | Notation with Direction |      |      |
@@ -25,7 +25,7 @@ images:
 ### Long
 
 | C   |    | 1   | 2   | 3   | 4   |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | F   | ▿▾  |     |     |     |     |
 | O   | ⬒   |     |     |     |     |
 | L   | ▿▾  |     |     |     |     |
@@ -37,5 +37,5 @@ images:
 ```
 
 ## Positions
-Start: [▿▾⬒▿▾](Positions/Closed/▿▾⬒▿▾.md)
-End: [▿▾⬒▿▾](Positions/Closed/▿▾⬒▿▾.md)
+Start: [[Closed R]]
+End: [[Closed R]]

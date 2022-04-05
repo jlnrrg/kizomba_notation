@@ -6,9 +6,9 @@ aliases:
 
 # Kizomba Notation
 The Kizomba Notation is based on 4 main information sources:
-- [Count](README#Count)
-- Leader/ Follower [Movement](README#Movement)
-- [Orientation](README#Orientation)
+- [Count](README.md#Count)
+- Leader/ Follower [Movement](README.md#Movement)
+- [Orientation](README.md#Orientation)
 
 ## Structure
 All displayed information assumes the orientation to the north. 
@@ -22,10 +22,10 @@ In the long or table notation these information are displayed in this order:
 3. Orientation (O)
 4. Leader movement (L)
 
-Using the [Saida Woman](Figures/Fundamentals/Saida%20Woman.md) as an example this would result such an output:
+Using the [[Saida Woman]] as an example this would result such an output:
 
 | C   |     | 1   | 2   | 3   | &   | 4   | 5   | 6   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | F   | ▿▾  | ↘   | →   | ↙   | ▾   | ↓   | ←   | ▿   |
 | O   | ⬒   | ◩   | ◧   | ⬕   | ⬓   | ⬓   | ⬓   | ⬓   |
 | L   | ▿▾  | ↘   | →   | ↙   | ▾   | ↓   | ←   | ▿   |
@@ -38,7 +38,7 @@ The short notation is defined in this order:
 3. Orientation
 4. Follower movement
 
-Thus the above mentioned [Saida Woman](Figures/Fundamentals/Saida%20Woman.md) would be written like this:
+Thus the above mentioned [[Saida Woman]] would be written like this:
 ```
 ▿▾⬒▿▾
 1↘◩↘
@@ -62,7 +62,7 @@ Full counts are represented using the corresponding number, while half counts ar
 - After the step is completed, the weight is on the just moved foot. 
 
 | Sign | Unicode | Description                  |
-| ---- | ------- | ---------------------------- |
+| :---- | :------- | :---------------------------- |
 | ↑    | U+2191  | north step                 |
 | ←    | U+2190  | west step                    |
 | →    | U+2192  | east step                   |
@@ -76,7 +76,7 @@ Full counts are represented using the corresponding number, while half counts ar
 - the bar/ hook at the start of each arrow should symbolize that the weight stays in place
 
 | Sign | Unicode | Description |
-| ---- | ------- | ----------- |
+| :---- | :------- | :----------- |
 | ↥    | U+21A5  |    non-weighted north step         |
 | ↤    | U+21A4  |    non-weighted west step         |
 | ↦    | U+21A6  |   non-weighted east step          |
@@ -89,7 +89,7 @@ Full counts are represented using the corresponding number, while half counts ar
 #### Long Steps with weight change
 
 | Sign | Unicode | Description        |
-| ---- | ------- | ------------------ |
+| :---- | :------- | :------------------ |
 | ↟    | U+219F  | long north step  |
 | ↞    | U+219E  | long west step     |
 | ↠    | U+21A0  | long east step    |
@@ -99,7 +99,7 @@ Full counts are represented using the corresponding number, while half counts ar
 - The filled triangles always represent the weighted version of the non-filled triangles
 
 | Sign | Unicode | Description                                   |
-| ---- | ------- | --------------------------------------------- |
+| :---- | :------- | :--------------------------------------------- |
 | ◈    | U+25C8  | Weight change in place                        |
 | ▿    | U+25BF  | Tap or closing motion without a weight change |
 | ▾    | U+25BE  | Closing motion with weight change             |
@@ -113,7 +113,7 @@ Full counts are represented using the corresponding number, while half counts ar
 #### Turns, Pivots
 
 | Sign | Unicode | Description     |
-| ---- | ------- | --------------- |
+| :---- | :------- | :--------------- |
 | ◷    | U+25F7  | 90° right turn  |
 | ◴    | U+25F4  | 90° left turn   |
 | ◑    | U+25D1  | 180° right turn |
@@ -127,7 +127,7 @@ Full counts are represented using the corresponding number, while half counts ar
 - The Tap move consists of a step without a weight shift and the movement **back to the start position**
 
 | Sign | Unicode | Description  |
-| ---- | ------- | ------------ |
+| :---- | :------- | :------------ |
 | ⤒    | U+2912  | north tap  |
 | ⇤    | U+21E4  | west tap     |
 | ⇥    | U+21E5  | east tap    |
@@ -137,14 +137,14 @@ Full counts are represented using the corresponding number, while half counts ar
 #### Signals
 
 | Sign | Unicode | Description |
-| ---- | ------- | ----------- |
+| :---- | :------- | :----------- |
 | ◇    | U+25C7  | Signal      |
 | ◆    | U+25C6  | Block       |
 
 #### Body Part Additions
 
 | Sign | Unicode | Body Part   |
-| ---- | ------- | ----------- |
+| :---- | :------- | :----------- |
 | ₐ    | U+2090  | Arm         |
 | ₕ    | U+2095  | Hand        |
 | ₖ    | U+2096  | Knee        |
@@ -158,7 +158,7 @@ Full counts are represented using the corresponding number, while half counts ar
 #### Additions
 
 | Sign | Unicode | Description  |
-| ---- | ------- | ------------ |
+| :---- | :------- | :------------ |
 | ₓ    | U+2093  | cross behind |
 |  ᪲    | U+1AB2  | hip rotation |
 
@@ -166,7 +166,7 @@ Full counts are represented using the corresponding number, while half counts ar
 - similar to [Tango Number 4](https://en.m.wikipedia.org/wiki/File:Homer2_tango_quatro.JPG )
 
 | Sign | Unicode | Description |
-| ---- | ------- | ----------- |
+| :---- | :------- | :----------- |
 | ⥾    | U+297E  |             |
 | ⥼    | U+297C  |             |
 | ⥽    | U+297D  |             |
@@ -174,18 +174,18 @@ Full counts are represented using the corresponding number, while half counts ar
 
 ## Orientation
 ### Writing Order
-1. Leader's [Weight Distribution](README#Weight%20Distribution) (optional, only used in [Positions](Positions/Positions.md))
-2. Leader's [Frame + Foot](README#Frame%20Foot)
+1. Leader's [Weight Distribution](README.md#Weight%20Distribution) (optional, only used in [[Positions]])
+2. Leader's [Frame + Foot](README.md#Frame%20Foot)
 3. [Follower's Positioning](README.md#Follower's%20Positioning)
-4. Follower's [Frame + Foot](README#Frame%20Foot)
-5. Follower's [Weight Distribution](README#Weight%20Distribution) (optional, only used in [Positions](Positions/Positions.md))
+4. Follower's [Frame + Foot](README.md#Frame%20Foot)
+5. Follower's [Weight Distribution](README.md#Weight%20Distribution) (optional, only used in [[Positions]])
 
 ### Weight Distribution
 - shown from the leader's perspective
-- the weight distribution is only used in the beginning of a notation or while notating [Positions](Positions/Positions.md)
+- the weight distribution is only used in the beginning of a notation or while notating [[Positions]]
 
 | Sign Combi | Description                  |
-| ---------- | ---------------------------- |
+| :---------- | :---------------------------- |
 | ▾▿         | Weight is on the left foot   |
 | ▿▾         | Weight is on the right foot  |
 | ▾▾         | Weight is equaly distributed |
@@ -195,7 +195,7 @@ Full counts are represented using the corresponding number, while half counts ar
 - default orientation is toward the center like this means: ⬒=╿⬒╽, ◧=╾◧╼, ◨=╼◨╾, etc. 
 
 | Sign | Unicode | Description        |
-| ---- | ------- | ------------------ |
+| :---- | :------- | :------------------ |
 | ⬒    | U+2B12  | in front           |
 | ◧    | U+25E7  | to the right       |
 | ◨    | U+25E8  | to the left        |
@@ -209,7 +209,7 @@ Full counts are represented using the corresponding number, while half counts ar
 - For non straight line signs (eg. ┚), the bold part represents the frame, while the small part represents the foot
 
 | Sign | Unicode | Frame    | Foot     | Previous Sign |
-| ---- | ------- | -------- | -------- | ------------- |
+| :---- | :------- | :-------- | :-------- | :------------- |
 | │    | U+2502  | same     | same     | necessary     |
 | ╎    | U+254E  | opposite | opposite | necessary     |
 | ╿    | U+257F  | ↑        | ↑        |               |

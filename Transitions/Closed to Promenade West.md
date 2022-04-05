@@ -12,8 +12,8 @@ images:
 # Closed to Promenade West
 ## Transition
 |      | From         | To                |
-| ---- | ------------ | ----------------- |
-| Link | [Closed ⬒](Postures/Closed%20⬒.md) | [Promenade ╿◨╿](Postures/Promenade%20╿◨╿.md) |
+| :---- | :------------ | :----------------- |
+| Link | [[Closed]] | [[Promenade]] |
 |    Direction  |       ↑       |   ←                |
 |    Notation with Direction  | ⬒          | ╾⬒╾             |
 
@@ -25,7 +25,7 @@ images:
 ### Long
 
 | C   |     | 1   |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | F   | ▿▾  |   ↤  |
 | O   | ⬒   |   ╾⬒╾  |
 | L   | ▿▾  |  ↤   |
@@ -37,5 +37,5 @@ images:
 ```
 
 ## Positions
-Start: [▿▾⬒▿▾](Positions/Closed/▿▾⬒▿▾.md)
-End: [▿▾╿◨╿▾▿](Positions/Promenade/▿▾╿◨╿▾▿.md)
+Start: [[Closed R]]
+End: [[Promenade R C]]

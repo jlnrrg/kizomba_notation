@@ -1,5 +1,5 @@
 ---
-title: "▾▿╿◨╿▿▾"
+title: "Promenade L C - ▾▿╿◨╿▿▾"
 aliases: [] 
 tags: [dance, kizomba, position] 
 images:
@@ -9,9 +9,9 @@ images:
 ## Description
 ### Weight Distribution
 | Weight   | Left | Right |
-| -------- | ---- | ----- |
+| :-------- | :---- | :----- |
 | Leader   |   X   |       |
 | Follower |      |    X   |
 
 ### Posture
-This position uses the [Promenade ╿◨╿](Postures/Promenade%20╿◨╿.md) Posture. 
+This position uses the [[Promenade]] Posture. 

@@ -12,8 +12,8 @@ images:
 # Closed to Shadow North
 ## Transition
 |                         | From             | To   |
-| ----------------------- | ---------------- | ---- |
-| Link                    | [Closed ⬒](Postures/Closed%20⬒.md)             | [Shadow ╿⬔╿](Postures/Shadow%20╿⬔╿.md) |
+| :----------------------- | :---------------- | :---- |
+| Link                    | [[Closed]]             | [[Shadow]] |
 | Direction               |         ↑         |   ↑   |
 | Notation with Direction | ⬒          | ╿⬔╿|      |
 
@@ -25,10 +25,10 @@ images:
 
 ## Notation
 ### Long
-1 - 2. [Saida Man](Figures/Fundamentals/Saida%20Man.md)-2
+1 - 2. [[Saida Man]]-2
 
 | C   |     | 3   |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | F   | ▿▾  | ◑↥  |
 | O   | ╿⬔╽ | ╿⬔╿ |
 | L   | ▿▾  | ↥   |
@@ -42,5 +42,5 @@ images:
 ```
 
 ## Positions
-Start: [▿▾⬒▿▾](Positions/Closed/▿▾⬒▿▾.md)
-End: [▿▾╿⬔╿▿▾](Positions/Shadow/▿▾╿⬔╿▿▾.md)
+Start: [[Closed R]]
+End: [[Shadow R]]

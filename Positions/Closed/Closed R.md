@@ -1,6 +1,6 @@
 ---
-title: "▿▾⬒▿▾"
-aliases: [] 
+title: "Closed R - ▿▾⬒▿▾"
+aliases: [Closed Default] 
 tags: [dance, kizomba, position] 
 images:
 -
@@ -9,9 +9,9 @@ images:
 ## Description
 ### Weight Distribution
 | Weight   | Left | Right |
-| -------- | ---- | ----- |
+| :-------- | :---- | :----- |
 | Leader   |      |    X   |
 | Follower |   X   |      |
 
 ### Posture
-This position uses the [Closed ⬒](Postures/Closed%20⬒.md) Posture. 
+This position uses the [[Closed]] Posture. 

@@ -12,8 +12,8 @@ images:
 # Closed to Shadow Man East
 ## Transition
 |                         | From | To   |
-| ----------------------- | ---- | ---- |
-| Link                    | [Closed ⬒](Postures/Closed%20⬒.md) | [Shadow Man ╿◪╿](Postures/Shadow%20Man%20╿◪╿.md) |
+| :----------------------- | :---- | :---- |
+| Link                    | [[Closed]] | [[Shadow Man]] |
 | Direction               |   ↑   |   →  |
 | Notation with Direction |   ⬒   |   ╿◪╿   |
 
@@ -26,7 +26,7 @@ images:
 1 - 3. [[Saida Woman]]-3
 
 | C   |     | 4   | 5   |
-| --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- |
 | F   | ▾▿  | ↓   | ◶→  |
 | O   | ╿⬔╽ | ╿◨╽ | ╿◪╿ |
 | L   | ▾▿  |     | →   |
@@ -41,5 +41,5 @@ images:
 ```
 
 ## Positions
-Start: [▿▾⬒▿▾](Positions/Closed/▿▾⬒▿▾.md)
-End: [▿▾╿◪╿▿▾](Positions/Shadow%20Man/▿▾╿◪╿▿▾.md)
+Start: [[Closed R]]
+End: [[Shadow Man R]]

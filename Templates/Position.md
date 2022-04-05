@@ -9,7 +9,7 @@ images:
 ## Description
 ### Weight Distribution
 | Weight   | Left | Right |
-| -------- | ---- | ----- |
+| :-------- | :---- | :----- |
 | Leader   |      |       |
 | Follower |      |       |
 

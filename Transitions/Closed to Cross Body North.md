@@ -12,8 +12,8 @@ images:
 # Closed to Cross Body North
 ## Transition
 |                         | From | To   |
-| ----------------------- | ---- | ---- |
-| Link                    | [Closed ⬒](Postures/Closed%20⬒.md) | [Cross Body ⬒ ╾](Postures/Cross%20Body%20⬒%20╾.md) |
+| :----------------------- | :---- | :---- |
+| Link                    | [[Closed]] | [[Cross Body]] |
 | Direction               |   ↑   |   ↑   |
 | Notation with Direction |  ⬒    |    ⬒╾  |
 
@@ -25,7 +25,7 @@ images:
 ### Long
 
 | C   |     | 1   | 2   | 3   |
-| --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- |
 | F   | ▿▾  | ←   | →   | ▿   |
 | O   | ⬒   | ⬒   | ⬒╾  | ⬒╾  |
 | L   | ▿▾  | ←   | →   | ▿   |
@@ -39,5 +39,5 @@ images:
 ```
 
 ## Positions
-Start: [▿▾⬒▿▾](Positions/Closed/▿▾⬒▿▾.md)
-End: [▿▾⬒╾▿▾](Positions/Cross%20Body/▿▾⬒╾▿▾.md)
+Start: [[Closed R]]
+End: [[Cross Body R C]]
